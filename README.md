@@ -16,7 +16,7 @@ I have run out of people to thank for this, but here is a non-exhaustive list:
 Installation
 ------------
 
-    git clone git://github.com/glanotte/dotfiles ~/.dotfiles
+    git clone git://github.com/dmccraw/dotfiles ~/.dotfiles
     cd ~/.dotfiles
     rake install
 
